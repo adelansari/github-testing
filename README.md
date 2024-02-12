@@ -7,6 +7,7 @@ Practicing github a bit
 1. Created a new GH repository for testing
 2. Created a local repository for testing.
 3. Connecting both repositories
-4. some changes here something else
-   g
-   some changes
+4. Pushed changes to remote repository.
+5. Making changes on the remote repository.
+6. Added more stuff
+7. Solve merge conflict
