@@ -9,3 +9,4 @@ Practicing github a bit
 3. Connecting both repositories
 4. Pushed changes to remote repository.
 5. Making changes on the remote repository.
+6. Added more stuff
