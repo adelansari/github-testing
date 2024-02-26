@@ -2,7 +2,7 @@
 
 Practicing github a bit
 
-### Steps
+### Testing 01: Creating a conflict
 
 1. Created a new GH repository for testing
 2. Created a local repository for testing.
@@ -13,4 +13,7 @@ Practicing github a bit
 7. Solve merge conflict
 8. updating readme file again
 
-some stuff
+
+### Testing 02: New branch
+
+1. Create a new branch: `git checkout -b dark-branch`
