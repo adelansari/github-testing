@@ -12,3 +12,5 @@ Practicing github a bit
 6. Added more stuff
 7. Solve merge conflict
 8. updating readme file again
+
+some stuff
