@@ -13,6 +13,7 @@ Practicing github a bit
 7. Solve merge conflict
 8. updating readme file again
 
+
 ### Testing 02: New branch
 
 1. Create a new branch: `git checkout -b dark-branch`
