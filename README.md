@@ -17,4 +17,7 @@ Practicing github a bit
 
 1. Create a new branch: `git checkout -b dark-branch`
 
-#This is a group task done for software development course.
+### Creating a team in github
+
+- This is a group task done for software development course.
+- Adel made some changes
